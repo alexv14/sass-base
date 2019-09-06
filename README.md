@@ -1,2 +1,2 @@
 # sass-base
-My first css framework with sas
+My first CSS framework with Sass
